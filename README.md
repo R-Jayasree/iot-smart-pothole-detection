@@ -155,8 +155,3 @@ python cloud_gateway.py
 * Jayasree R
 * M K Kavya
 
----
-
-## License
-
-This project is developed for academic and research purposes.
